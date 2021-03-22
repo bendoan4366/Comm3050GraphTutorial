@@ -1,0 +1,10 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+  },
+  "href": "https://api.spotify.com/v1/artists/7GN9PivdemQRKjDt4z5Zv8",
+  "id": "7GN9PivdemQRKjDt4z5Zv8",
+  "name": "The Internet",
+  "type": "artist",
+  "uri": "spotify:artist:7GN9PivdemQRKjDt4z5Zv8"
+}
