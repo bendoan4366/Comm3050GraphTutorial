@@ -1,201 +1,242 @@
-,song_name,song_id,uri,duration_ms,explicit,popularity
-0,Fight Night,2n5gVJ9fzeX2SSWlLQuyS9,spotify:track:2n5gVJ9fzeX2SSWlLQuyS9,216247,True,68
-1,Pipe It Up,6eBrlbv2HMYcldwjoMWIrC,spotify:track:6eBrlbv2HMYcldwjoMWIrC,206266,True,53
-2,pick up the phone,4GXl8l1MfZPf2GvpyRPJBf,spotify:track:4GXl8l1MfZPf2GvpyRPJBf,252262,True,68
-3,"Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)",5ALc7rbru6QOLGodVSDocc,spotify:track:5ALc7rbru6QOLGodVSDocc,358506,True,56
-4,With Them,0tISnxqgVmxqhVghsTi2Rr,spotify:track:0tISnxqgVmxqhVghsTi2Rr,197746,True,58
-5,F Cancer (Boosie) [feat. Quavo],1qPK58q90l8KNoWyXsLI2Y,spotify:track:1qPK58q90l8KNoWyXsLI2Y,249639,True,49
-6,Champions,2nBI3iWLhupR7LyAJ5GGkE,spotify:track:2nBI3iWLhupR7LyAJ5GGkE,334253,True,68
-7,One of Those Nights (feat. The Weeknd),6Jc69KjFo9QNailcyDJh2I,spotify:track:6Jc69KjFo9QNailcyDJh2I,256026,True,56
-8,Low Life (feat. The Weeknd),7EiZI6JVHllARrX9PUvAdX,spotify:track:7EiZI6JVHllARrX9PUvAdX,313546,True,75
-9,Jumpman,27GmP9AWRs744SzKcpJsTZ,spotify:track:27GmP9AWRs744SzKcpJsTZ,205879,True,74
-10,F*ck Up Some Commas,49zD0wr2S3d0lZPib0K4e1,spotify:track:49zD0wr2S3d0lZPib0K4e1,237400,True,67
-11,Bitches N Marijuana (feat. ScHoolboy Q),3PiLfzEXHrvT1oJKR8PAJt,spotify:track:3PiLfzEXHrvT1oJKR8PAJt,254693,True,61
-12,No Shopping,0Di26AbdtizzHkFstPyt7A,spotify:track:0Di26AbdtizzHkFstPyt7A,227727,True,47
-13,New Level (feat. Future),25rc1PFgPvtV6GFSloyOI0,spotify:track:25rc1PFgPvtV6GFSloyOI0,264973,True,57
-14,Let It Bang (feat. ScHoolboy Q),4yJ61FeTLi14BHzJXzurPi,spotify:track:4yJ61FeTLi14BHzJXzurPi,151306,True,47
-15,Back Hurt (feat. Migos),4BWuRZe5uDrhcO3QDhNaxQ,spotify:track:4BWuRZe5uDrhcO3QDhNaxQ,216200,True,38
-16,Blasé (feat. Future & Rae Sremmurd),3nW6HqoWdzpdz2oAzkHEoV,spotify:track:3nW6HqoWdzpdz2oAzkHEoV,286144,True,36
-17,Antidote,1wHZx0LgzFHyeIZkUydNXq,spotify:track:1wHZx0LgzFHyeIZkUydNXq,262693,True,76
-18,??? (Where) [feat. Migos],11byn9E2NCI65biHtKOLG2,spotify:track:11byn9E2NCI65biHtKOLG2,265830,True,43
-19,Shabba (feat. A$AP Rocky),7eaKWfov7b2Qa2n6HTesL3,spotify:track:7eaKWfov7b2Qa2n6HTesL3,275866,True,65
-20,way back,2Zy7XVdxyZQB8xp5xbpJdl,spotify:track:2Zy7XVdxyZQB8xp5xbpJdl,272500,True,68
-21,Calm Down,7xq3uN2toVZ8IbNzfTucyJ,spotify:track:7xq3uN2toVZ8IbNzfTucyJ,127426,True,63
-22,"Hella Hoes (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",7MDKvOzNgAJ3KMCtaP2UOa,spotify:track:7MDKvOzNgAJ3KMCtaP2UOa,211964,True,54
-23,Who,2FzMXRTlAbHkEP1N5RrXaW,spotify:track:2FzMXRTlAbHkEP1N5RrXaW,192313,True,0
-24,Both (feat. Drake),5tFep7dXGd7vEJ668wTPux,spotify:track:5tFep7dXGd7vEJ668wTPux,190311,True,69
-25,Hannah Montana,3SnLc0bQjQeE3HgGdNfb8u,spotify:track:3SnLc0bQjQeE3HgGdNfb8u,212712,True,48
-26,Call Casting,2SxF6pKTGmQLfkWua5d8j8,spotify:track:2SxF6pKTGmQLfkWua5d8j8,232705,True,27
-27,Fake Love,6NMNgWgEAzde5M8U3lc6FN,spotify:track:6NMNgWgEAzde5M8U3lc6FN,207813,True,0
-28,Sneakin’,4ckuS4Nj4FZ7i3Def3Br8W,spotify:track:4ckuS4Nj4FZ7i3Def3Br8W,251333,True,65
-29,Schemin Up (feat. Drake and P. Reign),63M8PK8yavNITSViKUB62p,spotify:track:63M8PK8yavNITSViKUB62p,330769,True,52
-30,Might Not,5e9aFSdnkQUrm5y8Dhw0qN,spotify:track:5e9aFSdnkQUrm5y8Dhw0qN,224213,True,66
-31,T-Shirt,7KOlJ92bu51cltsD9KU5I7,spotify:track:7KOlJ92bu51cltsD9KU5I7,242407,True,68
-32,U Mad,3KiEydhjn7yf58h9jBD5Sa,spotify:track:3KiEydhjn7yf58h9jBD5Sa,299800,True,57
-33,I Don't Fuck With You,4w7yrP4RAeeyhfG9nJqQvS,spotify:track:4w7yrP4RAeeyhfG9nJqQvS,284386,True,0
-34,For Free (feat. Drake),5TqBAOIBe0bQA0spNdcG3k,spotify:track:5TqBAOIBe0bQA0spNdcG3k,183695,True,54
-35,m.A.A.d city,439TlnnznSiBbQbgXiBqAd,spotify:track:439TlnnznSiBbQbgXiBqAd,350120,True,68
-36,Dirt Off Your Shoulder,3IrkbGQCoEPAkzJ0Tkv8nm,spotify:track:3IrkbGQCoEPAkzJ0Tkv8nm,245173,True,62
-37,Show Me What You Got,1SlPhbS52PbNqqVCqGU12I,spotify:track:1SlPhbS52PbNqqVCqGU12I,223120,True,39
-38,BagBak,0ylljWEG3ggkTlQbnUZb3Q,spotify:track:0ylljWEG3ggkTlQbnUZb3Q,160506,True,0
-39,Mask Off,3rOSwuTsUlJp0Pu0MkN8r8,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,204600,True,45
-40,Gyalchester,6UjfByV1lDLW0SOVQA4NAi,spotify:track:6UjfByV1lDLW0SOVQA4NAi,189229,True,69
-41,Portland,2bjwRfXMk4uRgOD9IBYl9h,spotify:track:2bjwRfXMk4uRgOD9IBYl9h,236614,True,73
-42,HUMBLE.,31c9IHwCIONmUYW0jL7Riz,spotify:track:31c9IHwCIONmUYW0jL7Riz,177604,True,2
-43,Black Beatles,6fujklziTHa8uoM5OQSfIo,spotify:track:6fujklziTHa8uoM5OQSfIo,291893,True,76
-44,"Top Back Remix (feat. Young Jeezy, Young Dro, Big Kuntry King, B.G.)",1H3j02k8vrhbPekOqV00mG,spotify:track:1H3j02k8vrhbPekOqV00mG,272146,True,0
-45,Magnolia,1e1JKLEDKP7hEQzJfNAgPl,spotify:track:1e1JKLEDKP7hEQzJfNAgPl,181812,True,76
-46,Big Fish,1hsCcm0xujceILNvgRfrVB,spotify:track:1hsCcm0xujceILNvgRfrVB,198053,False,0
-47,Martians Vs Goblins,1UIcqXAA24eg76EFWViwr5,spotify:track:1UIcqXAA24eg76EFWViwr5,228826,True,60
-48,BUTTERFLY EFFECT,1yxgsra98r3qAtxqiGZPiX,spotify:track:1yxgsra98r3qAtxqiGZPiX,190677,False,2
-49,Trap Paris (feat. Quavo & Ty Dolla $ign),5hfpu8saHLGedbHRtNCYjm,spotify:track:5hfpu8saHLGedbHRtNCYjm,203000,True,54
-50,JoHn Muir,7sr74Bz3GBTNMQe1m4F5Ut,spotify:track:7sr74Bz3GBTNMQe1m4F5Ut,219026,True,56
-51,Collard Greens,0zO8ctW0UiuOefR87OeJOZ,spotify:track:0zO8ctW0UiuOefR87OeJOZ,299960,True,73
-52,LigHt Years AHead (Sky HigH),1hjOus1mOUJ5lObEg2I077,spotify:track:1hjOus1mOUJ5lObEg2I077,251783,True,38
-53,Rolling Stone,7x9vJE3Xa7mIH106rzO9Tk,spotify:track:7x9vJE3Xa7mIH106rzO9Tk,216569,True,47
-54,Old English,2MO3mSPBH8U9qalH72vqZ1,spotify:track:2MO3mSPBH8U9qalH72vqZ1,201960,False,0
-55,1Train,7AijU6oTPGmG64uWf63Qvc,spotify:track:7AijU6oTPGmG64uWf63Qvc,372173,True,0
-56,Don't Like.1,12D0n7hKpPcjuUpcbAKjjr,spotify:track:12D0n7hKpPcjuUpcbAKjjr,283653,True,59
-57,Ali Bomaye,0LFcFGLYTX6UmeIdO7NVd7,spotify:track:0LFcFGLYTX6UmeIdO7NVd7,372706,True,67
-58,IV. Sweatpants,2rmq49FcJ4U3wh1Z7C9UxE,spotify:track:2rmq49FcJ4U3wh1Z7C9UxE,180680,True,0
-59,Still D.R.E.,503OTo2dSqe7qk76rgsbep,spotify:track:503OTo2dSqe7qk76rgsbep,270586,True,81
-60,Yay Yay,6n0KwBRfQX2O5CPAfdcD6a,spotify:track:6n0KwBRfQX2O5CPAfdcD6a,271773,True,0
-61,"Iced Out My Arms (feat. Future, Migos, 21 Savage & T.I.)",2ClE3QfsNx9p0zjPKxmUYq,spotify:track:2ClE3QfsNx9p0zjPKxmUYq,275533,True,38
-62,Promise,4MzkYx6KAEKNb0V1eftx8H,spotify:track:4MzkYx6KAEKNb0V1eftx8H,272221,True,35
-63,Check,1jk9c0gZI0wbn5GvAj7PBV,spotify:track:1jk9c0gZI0wbn5GvAj7PBV,230693,True,64
-64,"East Coast REMIX (feat. Busta Rhymes, A$AP Rocky, Dave East, French Montana, Rick Ross & Snoop Dogg)",67c4kWwica8i1bxNJc1rkq,spotify:track:67c4kWwica8i1bxNJc1rkq,334895,True,35
-65,Nasty (Who Dat) (feat. Migos),4GBuL6fgtVXJNgP1GzoF6Z,spotify:track:4GBuL6fgtVXJNgP1GzoF6Z,210681,True,37
-66,Plain Jane,3CrGhzG1oFEpgyK9XlxrXq,spotify:track:3CrGhzG1oFEpgyK9XlxrXq,173254,True,45
-67,"RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",6kl1qtQXQsFiIWRBK24Cfp,spotify:track:6kl1qtQXQsFiIWRBK24Cfp,255413,True,63
-68,Migo Montana,2Y3zcR4Zk0XyNtscjr7qvN,spotify:track:2Y3zcR4Zk0XyNtscjr7qvN,218612,True,38
-69,Unchained (The Payback / Untouchable),1zPkAyWzIAePfmbhHetqK7,spotify:track:1zPkAyWzIAePfmbhHetqK7,171573,True,41
-70,No Complaints,6kig1UFggPUyZBCvXD3Wod,spotify:track:6kig1UFggPUyZBCvXD3Wod,261733,True,0
-71,Backseat Freestyle,3aGibUHhQyBsyumYHylw0K,spotify:track:3aGibUHhQyBsyumYHylw0K,212653,True,68
-72,GUMMY,42tBlHWL3VfDkUM2iWcc5p,spotify:track:42tBlHWL3VfDkUM2iWcc5p,261000,True,60
-73,Slippery (feat. Gucci Mane),6p8NuHm8uCGnn2Dtbtf7zE,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,304041,True,72
-74,Oh My Dis Side (feat. Quavo),2rMFawCg4BW65jzbwztXAV,spotify:track:2rMFawCg4BW65jzbwztXAV,351253,True,65
-75,Ok Alright (feat. ScHoolboy Q),0MRZ9nMoLc7qQ8Nhovv8C8,spotify:track:0MRZ9nMoLc7qQ8Nhovv8C8,417693,True,56
-76,The Blanguage,23z0NFaX0CYXoetju87A4z,spotify:track:23z0NFaX0CYXoetju87A4z,252264,True,37
-77,I Get the Bag (feat. Migos),1XRgIKC5TPwo7nWGyKqgG0,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,233087,True,73
-78,Patek Water (feat. Offset),7r6LNJT2LqpLpEyZQJPygt,spotify:track:7r6LNJT2LqpLpEyZQJPygt,189480,True,59
-79,New Freezer (feat. Kendrick Lamar),4pYZLpX23Vx8rwDpJCpPTA,spotify:track:4pYZLpX23Vx8rwDpJCpPTA,193173,True,0
-80,Sauce It Up,1uL78kFWxhz3umTMWJu8n5,spotify:track:1uL78kFWxhz3umTMWJu8n5,207038,True,69
-81,Gilligan,2frDm1v0SFNyeduw3gO632,spotify:track:2frDm1v0SFNyeduw3gO632,207800,True,44
-82,Watch Me,3lz2JgAt4cyr04qDlBgTOv,spotify:track:3lz2JgAt4cyr04qDlBgTOv,154456,True,58
-83,Too Hotty,6rcKz2VYbcaHJ0qSXucR56,spotify:track:6rcKz2VYbcaHJ0qSXucR56,297377,True,0
-84,MotorSport,1YZfcVLbbJwfizR5cDOp3q,spotify:track:1YZfcVLbbJwfizR5cDOp3q,307660,True,0
-85,Ghostface Killers,5u6vkDnOyaf8LsteDAj2ub,spotify:track:5u6vkDnOyaf8LsteDAj2ub,268933,True,71
-86,Transportin',1WIZiOuNO3woKfdlSK2gNn,spotify:track:1WIZiOuNO3woKfdlSK2gNn,169344,True,72
-87,Stir Fry,4fndbjoz1qJyK6JcLdKfzm,spotify:track:4fndbjoz1qJyK6JcLdKfzm,192131,True,0
-88,Ric Flair Drip (& Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,172800,True,82
-89,Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,181263,True,77
-90,BBO (Bad Bitches Only),4BHzHISX21PYwGXiBEUQ70,spotify:track:4BHzHISX21PYwGXiBEUQ70,251858,True,62
-91,Auto Pilot,4Kw3CztmD15X1QGDnnHmLD,spotify:track:4Kw3CztmD15X1QGDnnHmLD,287992,True,49
-92,Emoji A Chain,0G9rmRmQDFk9O2tzZLyRkc,spotify:track:0G9rmRmQDFk9O2tzZLyRkc,315185,True,51
-93,"Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)",0RyA3o15NOLJYtm9NlDu5c,spotify:track:0RyA3o15NOLJYtm9NlDu5c,218946,True,63
-94,Pray For Me (with Kendrick Lamar),77UjLW8j5UAGAGVGhR5oUK,spotify:track:77UjLW8j5UAGAGVGhR5oUK,211440,True,72
-95,X (with 2 Chainz & Saudi),4LmAnpjlhWTahvRkYR8xJa,spotify:track:4LmAnpjlhWTahvRkYR8xJa,267426,True,69
-96,"King's Dead (with Kendrick Lamar, Future & James Blake)",1eLSF6HfrRA0AsNmTkUlKx,spotify:track:1eLSF6HfrRA0AsNmTkUlKx,225266,True,65
-97,Opps (with Yugen Blakrok),7bUcBztfGqO7cSI2gMZeCI,spotify:track:7bUcBztfGqO7cSI2gMZeCI,180893,True,59
-98,44 More,6iyp6udVpLuq3MCUulZT4h,spotify:track:6iyp6udVpLuq3MCUulZT4h,188613,True,0
-99,Achoo,2huH9q26JmfR0BzV4xKzny,spotify:track:2huH9q26JmfR0BzV4xKzny,244000,True,0
-0,Come Over,2hPNuVVSV1tqiD2uPlfehz,spotify:track:2hPNuVVSV1tqiD2uPlfehz,321853,True,57
-1,By the Poolside,4XTWiowLNAWfdc3YNq59VU,spotify:track:4XTWiowLNAWfdc3YNq59VU,217116,False,0
-2,Keep The Faith,33RKGVnB3zWdvHwTpq4ApA,spotify:track:33RKGVnB3zWdvHwTpq4ApA,258034,False,40
-3,Westside,4rU2eED2YPnmmrVmLlaYVI,spotify:track:4rU2eED2YPnmmrVmLlaYVI,179629,False,27
-4,How's It Wrong,3P5iJl5H2nOmWNMsCFuqFs,spotify:track:3P5iJl5H2nOmWNMsCFuqFs,234079,False,31
-5,Bedroom,3LH6EfPCeySeuymuK2gWAO,spotify:track:3LH6EfPCeySeuymuK2gWAO,186781,False,63
-6,Sunflower - Spider-Man: Into the Spider-Verse,1A6OTy97kk0mMdm78rHsm8,spotify:track:1A6OTy97kk0mMdm78rHsm8,158053,False,6
-7,Cheers (feat. Q-Tip),4qNijbGeHqlcFWrGrATFOX,spotify:track:4qNijbGeHqlcFWrGrATFOX,334733,True,55
-8,FEELS,4hyjgR9LU4B31xK6iIr6w7,spotify:track:4hyjgR9LU4B31xK6iIr6w7,227501,False,0
-9,Worst Nites,7lVoniii4QwhNjCeHij2xZ,spotify:track:7lVoniii4QwhNjCeHij2xZ,211920,False,0
-10,king,423VyysMCduMmvqDH5oGEB,spotify:track:423VyysMCduMmvqDH5oGEB,191440,False,0
-11,waves - Tame Impala Remix,3lB0GMiI5KxDbTOG8V3bOx,spotify:track:3lB0GMiI5KxDbTOG8V3bOx,253346,False,69
-12,Fever,2OHK6Hj0ITquxUstNPF5TM,spotify:track:2OHK6Hj0ITquxUstNPF5TM,281920,False,0
-13,Ordinary,3AEJ5MpwV4WJSFhxj04ITx,spotify:track:3AEJ5MpwV4WJSFhxj04ITx,298933,False,0
-14,It's Not Living (If It's Not With You),3TgMcrV32NUKjEG2ujn9eh,spotify:track:3TgMcrV32NUKjEG2ujn9eh,248335,False,71
-15,DJs & Porsches,7BhtNdWEvpx4n1vbqLrS93,spotify:track:7BhtNdWEvpx4n1vbqLrS93,197093,False,37
-16,Lose My Cool,3G9zeErd0kMx012kmYUrm7,spotify:track:3G9zeErd0kMx012kmYUrm7,214578,False,63
-17,In Camera,4vcyK8QHE6WsqiSnaBOtOS,spotify:track:4vcyK8QHE6WsqiSnaBOtOS,204386,False,0
-18,CHANCES,439X8jGytErRiPnaoUJHju,spotify:track:439X8jGytErRiPnaoUJHju,218200,False,67
-19,sunny,0cZcOtDqLaavK7LowhTBsa,spotify:track:0cZcOtDqLaavK7LowhTBsa,139130,False,60
-20,Elevate,5BxVRqpZi6tIhAap1ZjzVD,spotify:track:5BxVRqpZi6tIhAap1ZjzVD,308360,False,48
-21,Talk,0rTV5WefWd1J3OwIheTzxM,spotify:track:0rTV5WefWd1J3OwIheTzxM,197487,False,74
-22,8TEEN,5bgwqaRSS3M8WHWruHgSL5,spotify:track:5bgwqaRSS3M8WHWruHgSL5,228600,False,79
-23,Prosecco,1OWu2Vin6WH1gVvgO05Pw8,spotify:track:1OWu2Vin6WH1gVvgO05Pw8,208626,True,46
-24,Diddy Bop (x Louis The Child),2KZybiXVEQExXm2vtAcP8f,spotify:track:2KZybiXVEQExXm2vtAcP8f,219626,False,55
-25,Big Sis,0ARp9mXXpPflIwehy25kCa,spotify:track:0ARp9mXXpPflIwehy25kCa,166400,False,58
-26,Let Go,6hchk7cCDULpk2ag8JFjXQ,spotify:track:6hchk7cCDULpk2ag8JFjXQ,180479,False,0
-27,Fire,5jRJlGB5EP7HFKwYBKvlSA,spotify:track:5jRJlGB5EP7HFKwYBKvlSA,197749,False,47
-28,Bohemian Trapsody,7Ii2ALuxW7NkLfQPhV4Rn2,spotify:track:7Ii2ALuxW7NkLfQPhV4Rn2,404666,True,53
-29,Turn The Light,6vw4YLRXNvtFxA2yxVrR6H,spotify:track:6vw4YLRXNvtFxA2yxVrR6H,199320,False,51
-30,Morrison,7FwUBR93O0aSvXltMM73e7,spotify:track:7FwUBR93O0aSvXltMM73e7,235755,False,37
-31,Outta My Head (with John Mayer),09oZ9eXQ2fo6YDrPzJqAoP,spotify:track:09oZ9eXQ2fo6YDrPzJqAoP,177066,False,69
-32,Don't Lose,6Kk8BZZiRIClaHm0Qmkj12,spotify:track:6Kk8BZZiRIClaHm0Qmkj12,230431,False,34
-33,Reason,7hdM3l7whE3lTHP6WsoKZT,spotify:track:7hdM3l7whE3lTHP6WsoKZT,200000,False,46
-34,Heart in Two,3FDcRqc0TH5wWERAOu1O0c,spotify:track:3FDcRqc0TH5wWERAOu1O0c,197800,False,27
-35,Told You So,39Mfc40ap5dWCmAAtqMAW2,spotify:track:39Mfc40ap5dWCmAAtqMAW2,242259,False,32
-36,Entity,6ThstWIn274ADNjJBnUbEQ,spotify:track:6ThstWIn274ADNjJBnUbEQ,274714,False,10
-37,Forget Regret,34iP1qPyAfLpBAcMo7TQfN,spotify:track:34iP1qPyAfLpBAcMo7TQfN,232160,False,46
-38,Keep on Calling,4FUrVPC15KK8OcABXprp3Z,spotify:track:4FUrVPC15KK8OcABXprp3Z,230310,False,0
-39,"U Say (feat. Tyler, The Creator & Jay Prince)",0xYlNtVflZPG1pUbk4qp77,spotify:track:0xYlNtVflZPG1pUbk4qp77,200801,True,48
-40,Rolling into One,6rDunNC3OsxLUkxK1aEjnL,spotify:track:6rDunNC3OsxLUkxK1aEjnL,259196,False,0
-41,Hurry,6NqbN00vLmWfrQSx2wjD4z,spotify:track:6NqbN00vLmWfrQSx2wjD4z,174200,True,51
-42,religion (u can lay your hands on me),7rl1Frsgk11OLb193JtLra,spotify:track:7rl1Frsgk11OLb193JtLra,247346,False,0
-43,Untitled,2IoEP9SKwBpm4DL89MKTDZ,spotify:track:2IoEP9SKwBpm4DL89MKTDZ,179500,False,0
-44,Piledriver Waltz,4Ai0ANRDYwx6mCD4Uty1WS,spotify:track:4Ai0ANRDYwx6mCD4Uty1WS,203880,False,59
-45,Through Enough (feat. GoldLink),4KaiIuQH1EH65zWQgyWWaQ,spotify:track:4KaiIuQH1EH65zWQgyWWaQ,268773,True,43
-46,Kickback,5MZQIjtghyFc4sMVUzD7MD,spotify:track:5MZQIjtghyFc4sMVUzD7MD,171106,False,53
-47,Reckless,1BybndP1YgPEIk6WUnL6kT,spotify:track:1BybndP1YgPEIk6WUnL6kT,233265,True,59
-48,Wildin',4LGg2NY9eHp0jF3L1WbCNl,spotify:track:4LGg2NY9eHp0jF3L1WbCNl,139613,True,53
-49,I Wish I Missed My Ex,4jwP0pxx7su04FYc6J12EQ,spotify:track:4jwP0pxx7su04FYc6J12EQ,205263,False,58
-50,Sincerity Is Scary,6HguG9HRb1Ke1bhihfE4m8,spotify:track:6HguG9HRb1Ke1bhihfE4m8,225955,False,65
-51,Castaway,19zPT36WogsfBd8HIaUnt4,spotify:track:19zPT36WogsfBd8HIaUnt4,269893,True,53
-52,Uno Dos (feat. Jaden Smith),6gigGFhKguOzObNC5QZbeW,spotify:track:6gigGFhKguOzObNC5QZbeW,169639,False,0
-53,Nerve For The Ages,2fzK1mbS6V9UXQQ8reSjXH,spotify:track:2fzK1mbS6V9UXQQ8reSjXH,112977,False,34
-54,The Florist,19y7Eh2ORRo6spiEcr4aTU,spotify:track:19y7Eh2ORRo6spiEcr4aTU,201833,False,0
-55,Michigan,3UBkhPyI6UfmH86bxxPLcb,spotify:track:3UBkhPyI6UfmH86bxxPLcb,215000,False,35
-56,Here,1wYZZtamWTQAoj8B812uKQ,spotify:track:1wYZZtamWTQAoj8B812uKQ,199453,False,67
-57,Why Don’t You Come On (ft. Khalid and Empress Of),7zgoHkxLgchJwPdhbJhQ3K,spotify:track:7zgoHkxLgchJwPdhbJhQ3K,199980,False,43
-58,Bambi,5dmPNuHmRRJuHmJTDa7NuJ,spotify:track:5dmPNuHmRRJuHmJTDa7NuJ,194400,True,64
-59,Way to be Loved,5FjC0o2EGdlAMdc3hfeTMd,spotify:track:5FjC0o2EGdlAMdc3hfeTMd,263396,False,56
-60,Habits,1qAcX4wZpol2I0QtDSck3L,spotify:track:1qAcX4wZpol2I0QtDSck3L,217640,False,28
-61,"BIGBRIGHT (feat. Elkkle, E^ST & Duckwrth)",4gErEUBzsNChBuqk9jgycY,spotify:track:4gErEUBzsNChBuqk9jgycY,247385,False,0
-62,In Degrees,2muJzxNCRL7M2QeCmjPubU,spotify:track:2muJzxNCRL7M2QeCmjPubU,297632,False,54
-63,Opportunistic,79LfU5ufUmiLvLURU23Yyf,spotify:track:79LfU5ufUmiLvLURU23Yyf,139822,False,37
-64,Temper Temper,3DCU0R5FFaB9GKxZERb5wr,spotify:track:3DCU0R5FFaB9GKxZERb5wr,208980,False,61
-65,Feel Alright,1w4zsr8vQDFkVDOX22hEOF,spotify:track:1w4zsr8vQDFkVDOX22hEOF,253953,False,12
-66,Sad,5Ybp65SomeSJEj8xmUARdA,spotify:track:5Ybp65SomeSJEj8xmUARdA,163066,False,0
-67,Martini Blue,7zDu3l7DDlfSlt20YMKkWo,spotify:track:7zDu3l7DDlfSlt20YMKkWo,195204,False,58
-68,Softly,4PvbbMYL4fkToni5BLaYRb,spotify:track:4PvbbMYL4fkToni5BLaYRb,185306,False,70
-69,Hit Me Up,0Lhy1sDDdtUFY2pyq2ZVi9,spotify:track:0Lhy1sDDdtUFY2pyq2ZVi9,160000,True,64
-70,Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra),4ej94zqr9xYLbWphCH3TcD,spotify:track:4ej94zqr9xYLbWphCH3TcD,277046,True,52
-71,Shibuya,5G7602PyF33hYDi4utEpoZ,spotify:track:5G7602PyF33hYDi4utEpoZ,144515,False,51
-72,Something About Us (instrumental),3AqXknt2P2FDcgasp4VVNI,spotify:track:3AqXknt2P2FDcgasp4VVNI,261381,False,40
-73,Paint California,2ZlgqiomIrjvkuWFDSVOLY,spotify:track:2ZlgqiomIrjvkuWFDSVOLY,207133,False,57
-74,Downtown Love,5cnD97Kg28dJGGdBv72sDl,spotify:track:5cnD97Kg28dJGGdBv72sDl,196082,True,34
-75,Baltisoul,3VStQ5giIkRU9Rjh31TGH8,spotify:track:3VStQ5giIkRU9Rjh31TGH8,246368,False,41
-76,Never Enough - CASSARA Remix,5FLjLgqVsITzgEV9KNncTr,spotify:track:5FLjLgqVsITzgEV9KNncTr,447261,False,47
-77,Honest,2HytB9M0U9L8fmrDFvDgXD,spotify:track:2HytB9M0U9L8fmrDFvDgXD,194157,False,44
-78,Move on Up,2WaesAINqa4dKnLVu8JQKS,spotify:track:2WaesAINqa4dKnLVu8JQKS,292571,False,51
-79,Get To Know (feat. Winston Surfshirt),1LvASuCm9gPr9684FFNKdt,spotify:track:1LvASuCm9gPr9684FFNKdt,243599,False,56
-80,Soaked,5p80uI2FhYGQZJRfzy7mb6,spotify:track:5p80uI2FhYGQZJRfzy7mb6,240986,False,0
-81,On Your Way Down,6ECcJlfjh2F1LJxe74qKnJ,spotify:track:6ECcJlfjh2F1LJxe74qKnJ,225000,False,58
-82,The Way That You Move,1z0qfVExBs3b3dctr4ZlCD,spotify:track:1z0qfVExBs3b3dctr4ZlCD,220943,False,0
-83,Yummy,41L3O37CECZt3N7ziG2z7l,spotify:track:41L3O37CECZt3N7ziG2z7l,210426,False,76
-84,Tiny Little Boy,63oTx2gvxdNv9qGYQCA005,spotify:track:63oTx2gvxdNv9qGYQCA005,191000,False,47
-85,Sao Paulo Sunset,0vTJP35J4M1PY9iAA8UmbV,spotify:track:0vTJP35J4M1PY9iAA8UmbV,207401,False,55
-86,Ring,11Ey4yJVeWEsA73KjACkVY,spotify:track:11Ey4yJVeWEsA73KjACkVY,148776,False,58
-87,Just A While,6GVWKfRIG6KkZ6DFCTYGva,spotify:track:6GVWKfRIG6KkZ6DFCTYGva,192333,False,21
-88,Can't Help the Way,6CUugPwgI9yd0iPdMFkClA,spotify:track:6CUugPwgI9yd0iPdMFkClA,189857,False,3
-89,Monte Claire,357A38eIc5S73mWDD9oei1,spotify:track:357A38eIc5S73mWDD9oei1,166153,True,32
-90,Little Girl,7jhItbz47nxN7tAaiXf2R8,spotify:track:7jhItbz47nxN7tAaiXf2R8,174315,False,5
-91,Goodnightmare,4tUV3qVS1tIT5K2vbwo7Kh,spotify:track:4tUV3qVS1tIT5K2vbwo7Kh,209361,False,23
-92,Dicaprio On Acid,4HKl7nxuuky1ICnldu6Jvz,spotify:track:4HKl7nxuuky1ICnldu6Jvz,194546,False,0
-93,You and I,4lZlquzJF4AfND0nU5kcmj,spotify:track:4lZlquzJF4AfND0nU5kcmj,243946,False,0
-94,Prime of Your Life,02fMscVZ46N4l46yHZQkqT,spotify:track:02fMscVZ46N4l46yHZQkqT,216546,False,35
-95,Think,5TocQE0LESbiqk6sd3Y5Hm,spotify:track:5TocQE0LESbiqk6sd3Y5Hm,231927,False,33
-96,All Yours,76S0dx36oCAMgqfXlVUQeZ,spotify:track:76S0dx36oCAMgqfXlVUQeZ,173586,False,51
-97,DaNcing in a RoOm,2zTjF6OGxklU5Ulv7iTf4R,spotify:track:2zTjF6OGxklU5Ulv7iTf4R,208605,False,0
-98,Enginn eins og þú,3bzP8lZJWmuhpdnfDP1rTq,spotify:track:3bzP8lZJWmuhpdnfDP1rTq,181226,False,40
-99,Feeling Good,72PwtNhRrZXNnYeRg5xQ46,spotify:track:72PwtNhRrZXNnYeRg5xQ46,237333,False,40
+,song_name,song_id,uri,duration_ms,explicit,popularity,playlist_id,playlist_name
+0,Fight Night,2n5gVJ9fzeX2SSWlLQuyS9,spotify:track:2n5gVJ9fzeX2SSWlLQuyS9,216247,True,68,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+1,Pipe It Up,6eBrlbv2HMYcldwjoMWIrC,spotify:track:6eBrlbv2HMYcldwjoMWIrC,206266,True,53,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+2,"Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)",5ALc7rbru6QOLGodVSDocc,spotify:track:5ALc7rbru6QOLGodVSDocc,358506,True,57,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+3,With Them,0tISnxqgVmxqhVghsTi2Rr,spotify:track:0tISnxqgVmxqhVghsTi2Rr,197746,True,58,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+4,F Cancer (Boosie) [feat. Quavo],1qPK58q90l8KNoWyXsLI2Y,spotify:track:1qPK58q90l8KNoWyXsLI2Y,249639,True,49,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+5,Champions,2nBI3iWLhupR7LyAJ5GGkE,spotify:track:2nBI3iWLhupR7LyAJ5GGkE,334253,True,68,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+6,One of Those Nights (feat. The Weeknd),6Jc69KjFo9QNailcyDJh2I,spotify:track:6Jc69KjFo9QNailcyDJh2I,256026,True,56,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+7,Low Life (feat. The Weeknd),7EiZI6JVHllARrX9PUvAdX,spotify:track:7EiZI6JVHllARrX9PUvAdX,313546,True,75,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+8,Jumpman,27GmP9AWRs744SzKcpJsTZ,spotify:track:27GmP9AWRs744SzKcpJsTZ,205879,True,74,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+9,F*ck Up Some Commas,49zD0wr2S3d0lZPib0K4e1,spotify:track:49zD0wr2S3d0lZPib0K4e1,237400,True,67,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+10,Bitches N Marijuana (feat. ScHoolboy Q),3PiLfzEXHrvT1oJKR8PAJt,spotify:track:3PiLfzEXHrvT1oJKR8PAJt,254693,True,61,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+11,No Shopping,0Di26AbdtizzHkFstPyt7A,spotify:track:0Di26AbdtizzHkFstPyt7A,227727,True,47,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+12,New Level (feat. Future),25rc1PFgPvtV6GFSloyOI0,spotify:track:25rc1PFgPvtV6GFSloyOI0,264973,True,57,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+13,Let It Bang (feat. ScHoolboy Q),4yJ61FeTLi14BHzJXzurPi,spotify:track:4yJ61FeTLi14BHzJXzurPi,151306,True,47,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+14,Back Hurt (feat. Migos),4BWuRZe5uDrhcO3QDhNaxQ,spotify:track:4BWuRZe5uDrhcO3QDhNaxQ,216200,True,38,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+15,Blasé (feat. Future & Rae Sremmurd),3nW6HqoWdzpdz2oAzkHEoV,spotify:track:3nW6HqoWdzpdz2oAzkHEoV,286144,True,36,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+16,Antidote,1wHZx0LgzFHyeIZkUydNXq,spotify:track:1wHZx0LgzFHyeIZkUydNXq,262693,True,76,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+17,??? (Where) [feat. Migos],11byn9E2NCI65biHtKOLG2,spotify:track:11byn9E2NCI65biHtKOLG2,265830,True,43,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+18,Shabba (feat. A$AP Rocky),7eaKWfov7b2Qa2n6HTesL3,spotify:track:7eaKWfov7b2Qa2n6HTesL3,275866,True,65,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+19,way back,2Zy7XVdxyZQB8xp5xbpJdl,spotify:track:2Zy7XVdxyZQB8xp5xbpJdl,272500,True,68,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+20,Calm Down,7xq3uN2toVZ8IbNzfTucyJ,spotify:track:7xq3uN2toVZ8IbNzfTucyJ,127426,True,63,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+21,"Hella Hoes (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",7MDKvOzNgAJ3KMCtaP2UOa,spotify:track:7MDKvOzNgAJ3KMCtaP2UOa,211964,True,54,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+22,Who,2FzMXRTlAbHkEP1N5RrXaW,spotify:track:2FzMXRTlAbHkEP1N5RrXaW,192313,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+23,Both (feat. Drake),5tFep7dXGd7vEJ668wTPux,spotify:track:5tFep7dXGd7vEJ668wTPux,190311,True,70,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+24,Hannah Montana,3SnLc0bQjQeE3HgGdNfb8u,spotify:track:3SnLc0bQjQeE3HgGdNfb8u,212712,True,49,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+25,Call Casting,2SxF6pKTGmQLfkWua5d8j8,spotify:track:2SxF6pKTGmQLfkWua5d8j8,232705,True,27,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+26,Fake Love,6NMNgWgEAzde5M8U3lc6FN,spotify:track:6NMNgWgEAzde5M8U3lc6FN,207813,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+27,Sneakin’,4ckuS4Nj4FZ7i3Def3Br8W,spotify:track:4ckuS4Nj4FZ7i3Def3Br8W,251333,True,65,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+28,Schemin Up (feat. Drake and P. Reign),63M8PK8yavNITSViKUB62p,spotify:track:63M8PK8yavNITSViKUB62p,330769,True,52,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+29,Might Not,5e9aFSdnkQUrm5y8Dhw0qN,spotify:track:5e9aFSdnkQUrm5y8Dhw0qN,224213,True,67,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+30,T-Shirt,7KOlJ92bu51cltsD9KU5I7,spotify:track:7KOlJ92bu51cltsD9KU5I7,242407,True,69,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+31,U Mad,3KiEydhjn7yf58h9jBD5Sa,spotify:track:3KiEydhjn7yf58h9jBD5Sa,299800,True,57,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+32,I Don't Fuck With You,4w7yrP4RAeeyhfG9nJqQvS,spotify:track:4w7yrP4RAeeyhfG9nJqQvS,284386,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+33,For Free (feat. Drake),5TqBAOIBe0bQA0spNdcG3k,spotify:track:5TqBAOIBe0bQA0spNdcG3k,183695,True,54,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+34,m.A.A.d city,439TlnnznSiBbQbgXiBqAd,spotify:track:439TlnnznSiBbQbgXiBqAd,350120,True,68,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+35,Dirt Off Your Shoulder,3IrkbGQCoEPAkzJ0Tkv8nm,spotify:track:3IrkbGQCoEPAkzJ0Tkv8nm,245173,True,62,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+36,Show Me What You Got,1SlPhbS52PbNqqVCqGU12I,spotify:track:1SlPhbS52PbNqqVCqGU12I,223120,True,39,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+37,BagBak,0ylljWEG3ggkTlQbnUZb3Q,spotify:track:0ylljWEG3ggkTlQbnUZb3Q,160506,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+38,Mask Off,3rOSwuTsUlJp0Pu0MkN8r8,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,204600,True,45,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+39,Gyalchester,6UjfByV1lDLW0SOVQA4NAi,spotify:track:6UjfByV1lDLW0SOVQA4NAi,189229,True,69,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+40,Portland,2bjwRfXMk4uRgOD9IBYl9h,spotify:track:2bjwRfXMk4uRgOD9IBYl9h,236614,True,73,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+41,HUMBLE.,31c9IHwCIONmUYW0jL7Riz,spotify:track:31c9IHwCIONmUYW0jL7Riz,177604,True,2,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+42,Black Beatles,6fujklziTHa8uoM5OQSfIo,spotify:track:6fujklziTHa8uoM5OQSfIo,291893,True,76,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+43,"Top Back Remix (feat. Young Jeezy, Young Dro, Big Kuntry King, B.G.)",1H3j02k8vrhbPekOqV00mG,spotify:track:1H3j02k8vrhbPekOqV00mG,272146,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+44,Magnolia,1e1JKLEDKP7hEQzJfNAgPl,spotify:track:1e1JKLEDKP7hEQzJfNAgPl,181812,True,76,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+45,Big Fish,1hsCcm0xujceILNvgRfrVB,spotify:track:1hsCcm0xujceILNvgRfrVB,198053,False,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+46,Martians Vs Goblins,1UIcqXAA24eg76EFWViwr5,spotify:track:1UIcqXAA24eg76EFWViwr5,228826,True,61,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+47,BUTTERFLY EFFECT,1yxgsra98r3qAtxqiGZPiX,spotify:track:1yxgsra98r3qAtxqiGZPiX,190677,False,2,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+48,Trap Paris (feat. Quavo & Ty Dolla $ign),5hfpu8saHLGedbHRtNCYjm,spotify:track:5hfpu8saHLGedbHRtNCYjm,203000,True,54,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+49,JoHn Muir,7sr74Bz3GBTNMQe1m4F5Ut,spotify:track:7sr74Bz3GBTNMQe1m4F5Ut,219026,True,56,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+50,Collard Greens,0zO8ctW0UiuOefR87OeJOZ,spotify:track:0zO8ctW0UiuOefR87OeJOZ,299960,True,73,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+51,LigHt Years AHead (Sky HigH),1hjOus1mOUJ5lObEg2I077,spotify:track:1hjOus1mOUJ5lObEg2I077,251783,True,38,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+52,Rolling Stone,7x9vJE3Xa7mIH106rzO9Tk,spotify:track:7x9vJE3Xa7mIH106rzO9Tk,216569,True,47,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+53,Old English,2MO3mSPBH8U9qalH72vqZ1,spotify:track:2MO3mSPBH8U9qalH72vqZ1,201960,False,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+54,1Train,7AijU6oTPGmG64uWf63Qvc,spotify:track:7AijU6oTPGmG64uWf63Qvc,372173,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+55,Don't Like.1,12D0n7hKpPcjuUpcbAKjjr,spotify:track:12D0n7hKpPcjuUpcbAKjjr,283653,True,59,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+56,Ali Bomaye,0LFcFGLYTX6UmeIdO7NVd7,spotify:track:0LFcFGLYTX6UmeIdO7NVd7,372706,True,67,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+57,IV. Sweatpants,2rmq49FcJ4U3wh1Z7C9UxE,spotify:track:2rmq49FcJ4U3wh1Z7C9UxE,180680,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+58,Still D.R.E.,503OTo2dSqe7qk76rgsbep,spotify:track:503OTo2dSqe7qk76rgsbep,270586,True,81,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+59,Yay Yay,6n0KwBRfQX2O5CPAfdcD6a,spotify:track:6n0KwBRfQX2O5CPAfdcD6a,271773,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+60,"Iced Out My Arms (feat. Future, Migos, 21 Savage & T.I.)",2ClE3QfsNx9p0zjPKxmUYq,spotify:track:2ClE3QfsNx9p0zjPKxmUYq,275533,True,38,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+61,Promise,4MzkYx6KAEKNb0V1eftx8H,spotify:track:4MzkYx6KAEKNb0V1eftx8H,272221,True,35,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+62,Check,1jk9c0gZI0wbn5GvAj7PBV,spotify:track:1jk9c0gZI0wbn5GvAj7PBV,230693,True,64,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+63,"East Coast REMIX (feat. Busta Rhymes, A$AP Rocky, Dave East, French Montana, Rick Ross & Snoop Dogg)",67c4kWwica8i1bxNJc1rkq,spotify:track:67c4kWwica8i1bxNJc1rkq,334895,True,35,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+64,Nasty (Who Dat) (feat. Migos),4GBuL6fgtVXJNgP1GzoF6Z,spotify:track:4GBuL6fgtVXJNgP1GzoF6Z,210681,True,37,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+65,Plain Jane,3CrGhzG1oFEpgyK9XlxrXq,spotify:track:3CrGhzG1oFEpgyK9XlxrXq,173254,True,46,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+66,"RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",6kl1qtQXQsFiIWRBK24Cfp,spotify:track:6kl1qtQXQsFiIWRBK24Cfp,255413,True,63,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+67,Migo Montana,2Y3zcR4Zk0XyNtscjr7qvN,spotify:track:2Y3zcR4Zk0XyNtscjr7qvN,218612,True,39,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+68,Unchained (The Payback / Untouchable),1zPkAyWzIAePfmbhHetqK7,spotify:track:1zPkAyWzIAePfmbhHetqK7,171573,True,41,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+69,No Complaints,6kig1UFggPUyZBCvXD3Wod,spotify:track:6kig1UFggPUyZBCvXD3Wod,261733,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+70,Backseat Freestyle,3aGibUHhQyBsyumYHylw0K,spotify:track:3aGibUHhQyBsyumYHylw0K,212653,True,68,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+71,GUMMY,42tBlHWL3VfDkUM2iWcc5p,spotify:track:42tBlHWL3VfDkUM2iWcc5p,261000,True,60,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+72,Slippery (feat. Gucci Mane),6p8NuHm8uCGnn2Dtbtf7zE,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,304041,True,72,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+73,Oh My Dis Side (feat. Quavo),2rMFawCg4BW65jzbwztXAV,spotify:track:2rMFawCg4BW65jzbwztXAV,351253,True,66,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+74,Ok Alright (feat. ScHoolboy Q),0MRZ9nMoLc7qQ8Nhovv8C8,spotify:track:0MRZ9nMoLc7qQ8Nhovv8C8,417693,True,56,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+75,The Blanguage,23z0NFaX0CYXoetju87A4z,spotify:track:23z0NFaX0CYXoetju87A4z,252264,True,38,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+76,I Get the Bag (feat. Migos),1XRgIKC5TPwo7nWGyKqgG0,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,233087,True,73,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+77,Patek Water (feat. Offset),7r6LNJT2LqpLpEyZQJPygt,spotify:track:7r6LNJT2LqpLpEyZQJPygt,189480,True,59,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+78,New Freezer (feat. Kendrick Lamar),4pYZLpX23Vx8rwDpJCpPTA,spotify:track:4pYZLpX23Vx8rwDpJCpPTA,193173,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+79,Sauce It Up,1uL78kFWxhz3umTMWJu8n5,spotify:track:1uL78kFWxhz3umTMWJu8n5,207038,True,70,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+80,Gilligan,2frDm1v0SFNyeduw3gO632,spotify:track:2frDm1v0SFNyeduw3gO632,207800,True,44,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+81,Watch Me,3lz2JgAt4cyr04qDlBgTOv,spotify:track:3lz2JgAt4cyr04qDlBgTOv,154456,True,58,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+82,Too Hotty,6rcKz2VYbcaHJ0qSXucR56,spotify:track:6rcKz2VYbcaHJ0qSXucR56,297377,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+83,MotorSport,1YZfcVLbbJwfizR5cDOp3q,spotify:track:1YZfcVLbbJwfizR5cDOp3q,307660,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+84,Ghostface Killers,5u6vkDnOyaf8LsteDAj2ub,spotify:track:5u6vkDnOyaf8LsteDAj2ub,268933,True,71,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+85,Transportin',1WIZiOuNO3woKfdlSK2gNn,spotify:track:1WIZiOuNO3woKfdlSK2gNn,169344,True,72,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+86,Stir Fry,4fndbjoz1qJyK6JcLdKfzm,spotify:track:4fndbjoz1qJyK6JcLdKfzm,192131,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+87,Ric Flair Drip (& Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,172800,True,82,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+88,Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,181263,True,77,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+89,BBO (Bad Bitches Only),4BHzHISX21PYwGXiBEUQ70,spotify:track:4BHzHISX21PYwGXiBEUQ70,251858,True,62,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+90,Auto Pilot,4Kw3CztmD15X1QGDnnHmLD,spotify:track:4Kw3CztmD15X1QGDnnHmLD,287992,True,49,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+91,Emoji A Chain,0G9rmRmQDFk9O2tzZLyRkc,spotify:track:0G9rmRmQDFk9O2tzZLyRkc,315185,True,51,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+92,"Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)",0RyA3o15NOLJYtm9NlDu5c,spotify:track:0RyA3o15NOLJYtm9NlDu5c,218946,True,63,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+93,Pray For Me (with Kendrick Lamar),77UjLW8j5UAGAGVGhR5oUK,spotify:track:77UjLW8j5UAGAGVGhR5oUK,211440,True,72,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+94,X (with 2 Chainz & Saudi),4LmAnpjlhWTahvRkYR8xJa,spotify:track:4LmAnpjlhWTahvRkYR8xJa,267426,True,69,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+95,"King's Dead (with Kendrick Lamar, Future & James Blake)",1eLSF6HfrRA0AsNmTkUlKx,spotify:track:1eLSF6HfrRA0AsNmTkUlKx,225266,True,66,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+96,Opps (with Yugen Blakrok),7bUcBztfGqO7cSI2gMZeCI,spotify:track:7bUcBztfGqO7cSI2gMZeCI,180893,True,59,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+97,44 More,6iyp6udVpLuq3MCUulZT4h,spotify:track:6iyp6udVpLuq3MCUulZT4h,188613,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+98,Achoo,2huH9q26JmfR0BzV4xKzny,spotify:track:2huH9q26JmfR0BzV4xKzny,244000,True,0,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+99,Yuck,0D5CXSUx8GOCHSY8KWgi9h,spotify:track:0D5CXSUx8GOCHSY8KWgi9h,173693,True,55,1Vu8EHOlNPBFVBxmKtGHlr,brrrat brrrat
+0,Come Over,2hPNuVVSV1tqiD2uPlfehz,spotify:track:2hPNuVVSV1tqiD2uPlfehz,321853,True,57,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+1,By the Poolside,4XTWiowLNAWfdc3YNq59VU,spotify:track:4XTWiowLNAWfdc3YNq59VU,217116,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+2,Westside,4rU2eED2YPnmmrVmLlaYVI,spotify:track:4rU2eED2YPnmmrVmLlaYVI,179629,False,27,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+3,How's It Wrong,3P5iJl5H2nOmWNMsCFuqFs,spotify:track:3P5iJl5H2nOmWNMsCFuqFs,234079,False,31,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+4,Bedroom,3LH6EfPCeySeuymuK2gWAO,spotify:track:3LH6EfPCeySeuymuK2gWAO,186781,False,63,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+5,Sunflower - Spider-Man: Into the Spider-Verse,1A6OTy97kk0mMdm78rHsm8,spotify:track:1A6OTy97kk0mMdm78rHsm8,158053,False,6,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+6,Cheers (feat. Q-Tip),4qNijbGeHqlcFWrGrATFOX,spotify:track:4qNijbGeHqlcFWrGrATFOX,334733,True,55,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+7,FEELS,4hyjgR9LU4B31xK6iIr6w7,spotify:track:4hyjgR9LU4B31xK6iIr6w7,227501,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+8,Worst Nites,7lVoniii4QwhNjCeHij2xZ,spotify:track:7lVoniii4QwhNjCeHij2xZ,211920,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+9,king,423VyysMCduMmvqDH5oGEB,spotify:track:423VyysMCduMmvqDH5oGEB,191440,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+10,waves - Tame Impala Remix,3lB0GMiI5KxDbTOG8V3bOx,spotify:track:3lB0GMiI5KxDbTOG8V3bOx,253346,False,69,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+11,Fever,2OHK6Hj0ITquxUstNPF5TM,spotify:track:2OHK6Hj0ITquxUstNPF5TM,281920,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+12,Ordinary,3AEJ5MpwV4WJSFhxj04ITx,spotify:track:3AEJ5MpwV4WJSFhxj04ITx,298933,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+13,It's Not Living (If It's Not With You),3TgMcrV32NUKjEG2ujn9eh,spotify:track:3TgMcrV32NUKjEG2ujn9eh,248335,False,71,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+14,DJs & Porsches,7BhtNdWEvpx4n1vbqLrS93,spotify:track:7BhtNdWEvpx4n1vbqLrS93,197093,False,38,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+15,Lose My Cool,3G9zeErd0kMx012kmYUrm7,spotify:track:3G9zeErd0kMx012kmYUrm7,214578,False,63,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+16,In Camera,4vcyK8QHE6WsqiSnaBOtOS,spotify:track:4vcyK8QHE6WsqiSnaBOtOS,204386,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+17,CHANCES,439X8jGytErRiPnaoUJHju,spotify:track:439X8jGytErRiPnaoUJHju,218200,False,67,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+18,sunny,0cZcOtDqLaavK7LowhTBsa,spotify:track:0cZcOtDqLaavK7LowhTBsa,139130,False,60,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+19,Elevate,5BxVRqpZi6tIhAap1ZjzVD,spotify:track:5BxVRqpZi6tIhAap1ZjzVD,308360,False,49,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+20,Talk,0rTV5WefWd1J3OwIheTzxM,spotify:track:0rTV5WefWd1J3OwIheTzxM,197487,False,74,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+21,8TEEN,5bgwqaRSS3M8WHWruHgSL5,spotify:track:5bgwqaRSS3M8WHWruHgSL5,228600,False,79,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+22,Prosecco,1OWu2Vin6WH1gVvgO05Pw8,spotify:track:1OWu2Vin6WH1gVvgO05Pw8,208626,True,46,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+23,Diddy Bop (x Louis The Child),2KZybiXVEQExXm2vtAcP8f,spotify:track:2KZybiXVEQExXm2vtAcP8f,219626,False,55,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+24,Big Sis,0ARp9mXXpPflIwehy25kCa,spotify:track:0ARp9mXXpPflIwehy25kCa,166400,False,58,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+25,Let Go,6hchk7cCDULpk2ag8JFjXQ,spotify:track:6hchk7cCDULpk2ag8JFjXQ,180479,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+26,Fire,5jRJlGB5EP7HFKwYBKvlSA,spotify:track:5jRJlGB5EP7HFKwYBKvlSA,197749,False,47,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+27,Bohemian Trapsody,7Ii2ALuxW7NkLfQPhV4Rn2,spotify:track:7Ii2ALuxW7NkLfQPhV4Rn2,404666,True,53,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+28,Turn The Light,6vw4YLRXNvtFxA2yxVrR6H,spotify:track:6vw4YLRXNvtFxA2yxVrR6H,199320,False,51,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+29,Morrison,7FwUBR93O0aSvXltMM73e7,spotify:track:7FwUBR93O0aSvXltMM73e7,235755,False,38,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+30,Outta My Head (with John Mayer),09oZ9eXQ2fo6YDrPzJqAoP,spotify:track:09oZ9eXQ2fo6YDrPzJqAoP,177066,False,69,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+31,Don't Lose,6Kk8BZZiRIClaHm0Qmkj12,spotify:track:6Kk8BZZiRIClaHm0Qmkj12,230431,False,34,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+32,Reason,7hdM3l7whE3lTHP6WsoKZT,spotify:track:7hdM3l7whE3lTHP6WsoKZT,200000,False,46,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+33,Heart in Two,3FDcRqc0TH5wWERAOu1O0c,spotify:track:3FDcRqc0TH5wWERAOu1O0c,197800,False,27,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+34,Told You So,39Mfc40ap5dWCmAAtqMAW2,spotify:track:39Mfc40ap5dWCmAAtqMAW2,242259,False,32,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+35,Entity,6ThstWIn274ADNjJBnUbEQ,spotify:track:6ThstWIn274ADNjJBnUbEQ,274714,False,9,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+36,Forget Regret,34iP1qPyAfLpBAcMo7TQfN,spotify:track:34iP1qPyAfLpBAcMo7TQfN,232160,False,46,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+37,Keep on Calling,4FUrVPC15KK8OcABXprp3Z,spotify:track:4FUrVPC15KK8OcABXprp3Z,230310,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+38,"U Say (feat. Tyler, The Creator & Jay Prince)",0xYlNtVflZPG1pUbk4qp77,spotify:track:0xYlNtVflZPG1pUbk4qp77,200801,True,48,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+39,Rolling into One,6rDunNC3OsxLUkxK1aEjnL,spotify:track:6rDunNC3OsxLUkxK1aEjnL,259196,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+40,Hurry,6NqbN00vLmWfrQSx2wjD4z,spotify:track:6NqbN00vLmWfrQSx2wjD4z,174200,True,51,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+41,religion (u can lay your hands on me),7rl1Frsgk11OLb193JtLra,spotify:track:7rl1Frsgk11OLb193JtLra,247346,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+42,Untitled,2IoEP9SKwBpm4DL89MKTDZ,spotify:track:2IoEP9SKwBpm4DL89MKTDZ,179500,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+43,Piledriver Waltz,4Ai0ANRDYwx6mCD4Uty1WS,spotify:track:4Ai0ANRDYwx6mCD4Uty1WS,203880,False,59,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+44,Through Enough (feat. GoldLink),4KaiIuQH1EH65zWQgyWWaQ,spotify:track:4KaiIuQH1EH65zWQgyWWaQ,268773,True,43,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+45,Kickback,5MZQIjtghyFc4sMVUzD7MD,spotify:track:5MZQIjtghyFc4sMVUzD7MD,171106,False,53,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+46,Reckless,1BybndP1YgPEIk6WUnL6kT,spotify:track:1BybndP1YgPEIk6WUnL6kT,233265,True,59,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+47,Wildin',4LGg2NY9eHp0jF3L1WbCNl,spotify:track:4LGg2NY9eHp0jF3L1WbCNl,139613,True,53,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+48,I Wish I Missed My Ex,4jwP0pxx7su04FYc6J12EQ,spotify:track:4jwP0pxx7su04FYc6J12EQ,205263,False,58,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+49,Sincerity Is Scary,6HguG9HRb1Ke1bhihfE4m8,spotify:track:6HguG9HRb1Ke1bhihfE4m8,225955,False,65,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+50,Castaway,19zPT36WogsfBd8HIaUnt4,spotify:track:19zPT36WogsfBd8HIaUnt4,269893,True,53,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+51,Uno Dos (feat. Jaden Smith),6gigGFhKguOzObNC5QZbeW,spotify:track:6gigGFhKguOzObNC5QZbeW,169639,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+52,Nerve For The Ages,2fzK1mbS6V9UXQQ8reSjXH,spotify:track:2fzK1mbS6V9UXQQ8reSjXH,112977,False,34,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+53,The Florist,19y7Eh2ORRo6spiEcr4aTU,spotify:track:19y7Eh2ORRo6spiEcr4aTU,201833,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+54,Michigan,3UBkhPyI6UfmH86bxxPLcb,spotify:track:3UBkhPyI6UfmH86bxxPLcb,215000,False,35,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+55,Here,1wYZZtamWTQAoj8B812uKQ,spotify:track:1wYZZtamWTQAoj8B812uKQ,199453,False,67,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+56,Why Don’t You Come On (ft. Khalid and Empress Of),7zgoHkxLgchJwPdhbJhQ3K,spotify:track:7zgoHkxLgchJwPdhbJhQ3K,199980,False,43,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+57,Bambi,5dmPNuHmRRJuHmJTDa7NuJ,spotify:track:5dmPNuHmRRJuHmJTDa7NuJ,194400,True,64,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+58,Way to be Loved,5FjC0o2EGdlAMdc3hfeTMd,spotify:track:5FjC0o2EGdlAMdc3hfeTMd,263396,False,56,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+59,Habits,1qAcX4wZpol2I0QtDSck3L,spotify:track:1qAcX4wZpol2I0QtDSck3L,217640,False,28,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+60,"BIGBRIGHT (feat. Elkkle, E^ST & Duckwrth)",4gErEUBzsNChBuqk9jgycY,spotify:track:4gErEUBzsNChBuqk9jgycY,247385,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+61,In Degrees,2muJzxNCRL7M2QeCmjPubU,spotify:track:2muJzxNCRL7M2QeCmjPubU,297632,False,55,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+62,Opportunistic,79LfU5ufUmiLvLURU23Yyf,spotify:track:79LfU5ufUmiLvLURU23Yyf,139822,False,37,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+63,Temper Temper,3DCU0R5FFaB9GKxZERb5wr,spotify:track:3DCU0R5FFaB9GKxZERb5wr,208980,False,61,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+64,Feel Alright,1w4zsr8vQDFkVDOX22hEOF,spotify:track:1w4zsr8vQDFkVDOX22hEOF,253953,False,12,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+65,Sad,5Ybp65SomeSJEj8xmUARdA,spotify:track:5Ybp65SomeSJEj8xmUARdA,163066,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+66,Martini Blue,7zDu3l7DDlfSlt20YMKkWo,spotify:track:7zDu3l7DDlfSlt20YMKkWo,195204,False,58,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+67,Softly,4PvbbMYL4fkToni5BLaYRb,spotify:track:4PvbbMYL4fkToni5BLaYRb,185306,False,70,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+68,Hit Me Up,0Lhy1sDDdtUFY2pyq2ZVi9,spotify:track:0Lhy1sDDdtUFY2pyq2ZVi9,160000,True,64,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+69,Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra),4ej94zqr9xYLbWphCH3TcD,spotify:track:4ej94zqr9xYLbWphCH3TcD,277046,True,52,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+70,Shibuya,5G7602PyF33hYDi4utEpoZ,spotify:track:5G7602PyF33hYDi4utEpoZ,144515,False,51,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+71,Something About Us (instrumental),3AqXknt2P2FDcgasp4VVNI,spotify:track:3AqXknt2P2FDcgasp4VVNI,261381,False,40,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+72,Paint California,2ZlgqiomIrjvkuWFDSVOLY,spotify:track:2ZlgqiomIrjvkuWFDSVOLY,207133,False,57,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+73,Downtown Love,5cnD97Kg28dJGGdBv72sDl,spotify:track:5cnD97Kg28dJGGdBv72sDl,196082,True,34,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+74,Baltisoul,3VStQ5giIkRU9Rjh31TGH8,spotify:track:3VStQ5giIkRU9Rjh31TGH8,246368,False,41,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+75,Never Enough - CASSARA Remix,5FLjLgqVsITzgEV9KNncTr,spotify:track:5FLjLgqVsITzgEV9KNncTr,447261,False,47,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+76,Honest,2HytB9M0U9L8fmrDFvDgXD,spotify:track:2HytB9M0U9L8fmrDFvDgXD,194157,False,44,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+77,Move on Up,2WaesAINqa4dKnLVu8JQKS,spotify:track:2WaesAINqa4dKnLVu8JQKS,292571,False,51,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+78,Get To Know (feat. Winston Surfshirt),1LvASuCm9gPr9684FFNKdt,spotify:track:1LvASuCm9gPr9684FFNKdt,243599,False,56,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+79,Soaked,5p80uI2FhYGQZJRfzy7mb6,spotify:track:5p80uI2FhYGQZJRfzy7mb6,240986,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+80,On Your Way Down,6ECcJlfjh2F1LJxe74qKnJ,spotify:track:6ECcJlfjh2F1LJxe74qKnJ,225000,False,58,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+81,The Way That You Move,1z0qfVExBs3b3dctr4ZlCD,spotify:track:1z0qfVExBs3b3dctr4ZlCD,220943,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+82,Yummy,41L3O37CECZt3N7ziG2z7l,spotify:track:41L3O37CECZt3N7ziG2z7l,210426,False,76,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+83,Tiny Little Boy,63oTx2gvxdNv9qGYQCA005,spotify:track:63oTx2gvxdNv9qGYQCA005,191000,False,47,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+84,Sao Paulo Sunset,0vTJP35J4M1PY9iAA8UmbV,spotify:track:0vTJP35J4M1PY9iAA8UmbV,207401,False,55,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+85,Ring,11Ey4yJVeWEsA73KjACkVY,spotify:track:11Ey4yJVeWEsA73KjACkVY,148776,False,58,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+86,Just A While,6GVWKfRIG6KkZ6DFCTYGva,spotify:track:6GVWKfRIG6KkZ6DFCTYGva,192333,False,21,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+87,Can't Help the Way,6CUugPwgI9yd0iPdMFkClA,spotify:track:6CUugPwgI9yd0iPdMFkClA,189857,False,3,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+88,Monte Claire,357A38eIc5S73mWDD9oei1,spotify:track:357A38eIc5S73mWDD9oei1,166153,True,32,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+89,Little Girl,7jhItbz47nxN7tAaiXf2R8,spotify:track:7jhItbz47nxN7tAaiXf2R8,174315,False,5,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+90,Goodnightmare,4tUV3qVS1tIT5K2vbwo7Kh,spotify:track:4tUV3qVS1tIT5K2vbwo7Kh,209361,False,23,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+91,Dicaprio On Acid,4HKl7nxuuky1ICnldu6Jvz,spotify:track:4HKl7nxuuky1ICnldu6Jvz,194546,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+92,You and I,4lZlquzJF4AfND0nU5kcmj,spotify:track:4lZlquzJF4AfND0nU5kcmj,243946,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+93,Prime of Your Life,02fMscVZ46N4l46yHZQkqT,spotify:track:02fMscVZ46N4l46yHZQkqT,216546,False,35,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+94,Think,5TocQE0LESbiqk6sd3Y5Hm,spotify:track:5TocQE0LESbiqk6sd3Y5Hm,231927,False,33,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+95,All Yours,76S0dx36oCAMgqfXlVUQeZ,spotify:track:76S0dx36oCAMgqfXlVUQeZ,173586,False,51,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+96,DaNcing in a RoOm,2zTjF6OGxklU5Ulv7iTf4R,spotify:track:2zTjF6OGxklU5Ulv7iTf4R,208605,False,0,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+97,Enginn eins og þú,3bzP8lZJWmuhpdnfDP1rTq,spotify:track:3bzP8lZJWmuhpdnfDP1rTq,181226,False,40,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+98,Feeling Good,72PwtNhRrZXNnYeRg5xQ46,spotify:track:72PwtNhRrZXNnYeRg5xQ46,237333,False,40,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+99,We Don't Need To Dance,76c9yn9NDJDYswNcJIBT7c,spotify:track:76c9yn9NDJDYswNcJIBT7c,159094,False,34,5myx61jwlbF2iMDVWNK0Ps,wrist whippin
+0,The London (feat. J. Cole & Travis Scott),3s4mrPrEFFPF0LmAfutW0n,spotify:track:3s4mrPrEFFPF0LmAfutW0n,200186,True,74,1V9wButKEb5GJDshdKUGeN,werk
+1,Ecstasy (feat. Machine Gun Kelly),1yBbxDXEfr8boXM1ubvBHi,spotify:track:1yBbxDXEfr8boXM1ubvBHi,178240,True,58,1V9wButKEb5GJDshdKUGeN,werk
+2,Circle Of Bosses (feat. Quavo),5UmRDaMPkV6g2HVMWoKx8u,spotify:track:5UmRDaMPkV6g2HVMWoKx8u,179466,True,53,1V9wButKEb5GJDshdKUGeN,werk
+3,"Guwop (feat. Quavo, Offset and Young Scooter)",1BSA5I386L2IAmFQURYjIz,spotify:track:1BSA5I386L2IAmFQURYjIz,315973,True,59,1V9wButKEb5GJDshdKUGeN,werk
+4,Pick Up The Phone (feat. Quavo),5NAMZI9lVhxNa6AZp3iQVH,spotify:track:5NAMZI9lVhxNa6AZp3iQVH,252262,True,0,1V9wButKEb5GJDshdKUGeN,werk
+5,Walk It Talk It,6n4U3TlzUGhdSFbUUhTvLP,spotify:track:6n4U3TlzUGhdSFbUUhTvLP,276147,True,76,1V9wButKEb5GJDshdKUGeN,werk
+6,Kelly Price (feat. Travis Scott),204U3zjm9kkzX25Pr4Rdld,spotify:track:204U3zjm9kkzX25Pr4Rdld,363934,True,65,1V9wButKEb5GJDshdKUGeN,werk
+7,Red Bentley (feat. Young Thug),3fFBZvG777xoKyvcrBq7lc,spotify:track:3fFBZvG777xoKyvcrBq7lc,207866,True,61,1V9wButKEb5GJDshdKUGeN,werk
+8,Wyclef Jean,55OdqrG8WLmsYyY1jijD9b,spotify:track:55OdqrG8WLmsYyY1jijD9b,236293,True,65,1V9wButKEb5GJDshdKUGeN,werk
+9,Future Swag,1ckxFDBKrcepE6pDmayXzP,spotify:track:1ckxFDBKrcepE6pDmayXzP,165866,True,47,1V9wButKEb5GJDshdKUGeN,werk
+10,Unbothered,5hwUsRKvnO5yThjVrxHQVt,spotify:track:5hwUsRKvnO5yThjVrxHQVt,138426,True,74,1V9wButKEb5GJDshdKUGeN,werk
+11,Bad Bad Bad (feat. Lil Baby),1GeNui6m825V8jP4uKiIaH,spotify:track:1GeNui6m825V8jP4uKiIaH,149040,True,72,1V9wButKEb5GJDshdKUGeN,werk
+12,Beef,2ctl2YVjBnxDO3OMf1Haay,spotify:track:2ctl2YVjBnxDO3OMf1Haay,213333,False,61,1V9wButKEb5GJDshdKUGeN,werk
+13,R.I.P. Fredo (feat. Young Nudy) - Notice Me,45Ln3F9PRPYTXBcMFkZMzS,spotify:track:45Ln3F9PRPYTXBcMFkZMzS,161200,True,60,1V9wButKEb5GJDshdKUGeN,werk
+14,Shoota (feat. Lil Uzi Vert),2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,153800,True,78,1V9wButKEb5GJDshdKUGeN,werk
+15,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,7h0d2h0fUmzbs7zeFigJPn,spotify:track:7h0d2h0fUmzbs7zeFigJPn,244873,True,72,1V9wButKEb5GJDshdKUGeN,werk
+16,Live Off My Closet (feat. Future),6AyWdCtEn1DdxjnxPeojR2,spotify:track:6AyWdCtEn1DdxjnxPeojR2,173061,True,63,1V9wButKEb5GJDshdKUGeN,werk
+17,OUT WEST (feat. Young Thug),6gi6y1xwmVszDWkUqab1qw,spotify:track:6gi6y1xwmVszDWkUqab1qw,157712,True,82,1V9wButKEb5GJDshdKUGeN,werk
+18,3 Headed Snake (feat. Young Thug),2OaKHGvIxoOzIYjyMsxcT8,spotify:track:2OaKHGvIxoOzIYjyMsxcT8,241995,True,61,1V9wButKEb5GJDshdKUGeN,werk
+19,Check,1jk9c0gZI0wbn5GvAj7PBV,spotify:track:1jk9c0gZI0wbn5GvAj7PBV,230693,True,64,1V9wButKEb5GJDshdKUGeN,werk
+20,Halftime,4BP0An7SXctTY4kF41JxIQ,spotify:track:4BP0An7SXctTY4kF41JxIQ,226733,True,56,1V9wButKEb5GJDshdKUGeN,werk
+21,24 (feat. Lil Baby),7v96VvFLS0wSYT8kewNLRy,spotify:track:7v96VvFLS0wSYT8kewNLRy,182857,True,76,1V9wButKEb5GJDshdKUGeN,werk
+22,With That (feat. Duke),6o4nVtywF4F75RkOcDxrtd,spotify:track:6o4nVtywF4F75RkOcDxrtd,202533,True,59,1V9wButKEb5GJDshdKUGeN,werk
+23,Flava,49MkHdUftJsF4oqUNWED1M,spotify:track:49MkHdUftJsF4oqUNWED1M,350563,True,30,1V9wButKEb5GJDshdKUGeN,werk
+24,Who You Foolin,7KVPsVMOK3NL7subwJ0dZj,spotify:track:7KVPsVMOK3NL7subwJ0dZj,151539,True,71,1V9wButKEb5GJDshdKUGeN,werk
+25,Best Friend,33JcUj9qQDayKswunZP9ar,spotify:track:33JcUj9qQDayKswunZP9ar,213000,True,63,1V9wButKEb5GJDshdKUGeN,werk
+26,Memo,7tk5tOCj84jine8kKJkPYs,spotify:track:7tk5tOCj84jine8kKJkPYs,195413,True,55,1V9wButKEb5GJDshdKUGeN,werk
+27,High Top Versace (feat. Young Thug),40wyhIkaVvuZUAbAiTOkHI,spotify:track:40wyhIkaVvuZUAbAiTOkHI,176920,True,46,1V9wButKEb5GJDshdKUGeN,werk
+28,ORANGE SODA,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,129882,True,78,1V9wButKEb5GJDshdKUGeN,werk
+29,FRANCHISE (feat. Young Thug & M.I.A.),4jVBIpuOiMj1crqd8LoCrJ,spotify:track:4jVBIpuOiMj1crqd8LoCrJ,202794,True,79,1V9wButKEb5GJDshdKUGeN,werk
+30,Money Longer,0B8QzDH7YWih85V5SEMnyJ,spotify:track:0B8QzDH7YWih85V5SEMnyJ,198944,True,76,1V9wButKEb5GJDshdKUGeN,werk
+31,Repercussions (with Young Thug),0YFwNNWeRQhOi6p17jTCzp,spotify:track:0YFwNNWeRQhOi6p17jTCzp,159003,True,58,1V9wButKEb5GJDshdKUGeN,werk
+32,With Them,0tISnxqgVmxqhVghsTi2Rr,spotify:track:0tISnxqgVmxqhVghsTi2Rr,197746,True,58,1V9wButKEb5GJDshdKUGeN,werk
+33,Oh My Dis Side (feat. Quavo),2rMFawCg4BW65jzbwztXAV,spotify:track:2rMFawCg4BW65jzbwztXAV,351253,True,66,1V9wButKEb5GJDshdKUGeN,werk
+34,A-Team,5cgEadiGKjtTP1Q6NJqVP5,spotify:track:5cgEadiGKjtTP1Q6NJqVP5,176640,True,63,1V9wButKEb5GJDshdKUGeN,werk
+35,DOLLAZ ON MY HEAD (feat. Young Thug),3nS9a01VvXHQriLqJYwRqG,spotify:track:3nS9a01VvXHQriLqJYwRqG,197760,True,80,1V9wButKEb5GJDshdKUGeN,werk
+36,Greaze Mode,3nG784YlxS4VQOF0qiHKVP,spotify:track:3nG784YlxS4VQOF0qiHKVP,168400,True,64,1V9wButKEb5GJDshdKUGeN,werk
+37,Uber Everywhere (feat. Travis Scott),5YCs9rP6ZcMJW6me3QhtWr,spotify:track:5YCs9rP6ZcMJW6me3QhtWr,181107,True,59,1V9wButKEb5GJDshdKUGeN,werk
+38,Throw A Fit,7D8aQaRzoi9Qzz5yerVK5b,spotify:track:7D8aQaRzoi9Qzz5yerVK5b,158757,True,65,1V9wButKEb5GJDshdKUGeN,werk
+39,That Go! (feat. T-Shyne),4X4cPQicoAfannkUFUXmi9,spotify:track:4X4cPQicoAfannkUFUXmi9,225866,True,71,1V9wButKEb5GJDshdKUGeN,werk
+40,D4L,5fHrHoJKfCgBd35zwIBmUK,spotify:track:5fHrHoJKfCgBd35zwIBmUK,189176,True,66,1V9wButKEb5GJDshdKUGeN,werk
