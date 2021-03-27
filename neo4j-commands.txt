@@ -1,0 +1,37 @@
+
+//create playlists
+CREATE(jb:Playlist{playlist_id:"1uY4UVKMPbOFj9cdtNc6a6",playlist_name:"sailing"})
+CREATE(jbb:Playlist{playlist_id:"6pBkmo0Pn8HSjtcudqqGDE",playlist_name:"Jimmy Buffett Best Of"})
+CREATE(jbl:Playlist{playlist_id:"5QRStOSftF9l9A9Jgi4HlC6",playlist_name:"Jimmy Buffett: Live"})
+
+//Create and link usernames to playlists
+match(uu:User) where uu.username = "bendoan4366"
+match(pww:Playlist) where pww.playlist_name = "wrist whippin"
+match(pbb:Playlist) where pbb.playlist_name = "brrrat brrrat"
+match(pwerk:Playlist) where pwerk.playlist_name = "werk"
+CREATE(uu)-[:CREATED{date_created:"2018-09-12"}]->(pww),
+(uu)-[:CREATED{date_created:"2016-09-12"}]->(pbb)
+(uu)-[:CREATED{date_created:"2020-03-14"}]->(pwerk)
+
+//Create and link usernames to playlists
+match(uu:User) where uu.username = "RRNelson"
+match(pjbb:Playlist) where pjbb.playlist_id = "6pBkmo0Pn8HSjtcudqqGDE"
+match(pjl:Playlist) where pjl.playlist_id = "5QRStOSftF9l9A9Jgi4HlC"
+match(ps:Playlist) where ps.playlist_id = "1uY4UVKMPbOFj9cdtNc6a6"    
+CREATE(uu)-[:CREATED{date_created:"2017-03-01"}]->(pjbb),
+(uu)-[:CREATED{date_created:"2020-05-28"}]->(pjl),
+(uu)-[:CREATED{date_created:"2021-03-23"}]->(ps)
+
+//import
+LOAD CSV WITH HEADERS FROM "file:///master_import.csv" AS row
+MERGE(s:Song{song_name: row.song_name, song_id: row.song_id, duration_ms: row.duration_ms, popularity:row.popularity, is_explicit:row.explicit})
+MERGE(a:Artist{artist_name:row.artist_name, artist_id:row.artist_name})
+MERGE(al:Album{album_name:row.album_name, album_id:row.album_id})
+MERGE(p:Playlist{playlist_id:row.playlist_id, playlist_name:row.playlist_name})
+MERGE(a)-[:RELEASED{release_date:row.release_date}]->(al)
+MERGE(s)-[:LISTED_ON]->(al)
+MERGE(s)-[:ADDED_TO]->(p)
+MERGE(a)-[:FEATURED_ON]->(s)
+
+//expand all artists
+match(u:User{username:"bendoan4366"})-[:CREATED]->(p:Playlist)<-[added_to]-(s:Song)<-[featured_on]-(a:Artist) return *
